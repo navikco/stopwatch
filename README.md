@@ -5,7 +5,10 @@ STOP WATCH DEMO
 
 ```shell
 
-    git clone https://github.com/navikco/stopwatch.git
+	#Install Gradle if you don't have it yet
+	brew install gradle 
+
+	git clone https://github.com/navikco/stopwatch.git
     
 	cd stopwatch/
 	
